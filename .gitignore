@@ -1,0 +1,8 @@
+# Claude Code
+.claude/
+.claude/**
+CLAUDE.md
+CLAUDE.local.md
+.mcp.json
+.claude.json
+.claudeignore
